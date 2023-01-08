@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BrunoDevAL&icon=1&color=3)]()
+[![](https://visitcount.itsvg.in/api?id=BrunoDevAL&icon=1&color=3)](https://github.com/BrunoDevAL)
 
 ![snake gif](https://github.com/BrunoDevAL/BrunoDevAL/blob/output/github-contribution-grid-snake.svg)
 
