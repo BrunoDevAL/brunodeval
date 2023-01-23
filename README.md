@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=BrunoDevAL&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=brunounix)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username= ADD DPS )](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
